@@ -16,8 +16,6 @@
 //     return 0;
 // }
 
-
-
 // SIMPLE INTEREST CALCULATOR USING SCANF
 
 // int main()

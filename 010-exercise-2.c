@@ -47,9 +47,3 @@
 //     printf("%d", sum);
 //     return 0;
 // }
-
-
-
-
-// G.c
-
